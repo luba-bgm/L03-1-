@@ -1,0 +1,8 @@
+C:\Users\Любовь\OneDrive\Рабочий стол\repos\clientServer\clientServer\bin\Debug\clientServer.exe.config
+C:\Users\Любовь\OneDrive\Рабочий стол\repos\clientServer\clientServer\bin\Debug\clientServer.exe
+C:\Users\Любовь\OneDrive\Рабочий стол\repos\clientServer\clientServer\bin\Debug\clientServer.pdb
+C:\Users\Любовь\OneDrive\Рабочий стол\repos\clientServer\clientServer\obj\Debug\clientServer.csproj.AssemblyReference.cache
+C:\Users\Любовь\OneDrive\Рабочий стол\repos\clientServer\clientServer\obj\Debug\clientServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Любовь\OneDrive\Рабочий стол\repos\clientServer\clientServer\obj\Debug\clientServer.csproj.CoreCompileInputs.cache
+C:\Users\Любовь\OneDrive\Рабочий стол\repos\clientServer\clientServer\obj\Debug\clientServer.exe
+C:\Users\Любовь\OneDrive\Рабочий стол\repos\clientServer\clientServer\obj\Debug\clientServer.pdb
